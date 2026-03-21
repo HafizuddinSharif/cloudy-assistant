@@ -1,17 +1,17 @@
-# 🤝 Relationship Memory - Understanding [YOUR_NAME]
+# 🤝 Relationship Memory - Understanding Sharif
 *Learning your preferences, style, and needs*
 
 ## User Profile
-- **Name**: [YOUR_NAME] 
-- **Relationship Style**: [RELATIONSHIP_STYLE] partnership with [AI_NAME]
+- **Name**: Sharif
+- **Relationship Style**: professional personal assistant partnership with Cloudy
 - **Communication Preference**: [Will learn and adapt]
-- **Primary Focus Areas**: [Will develop through conversation]
+- **Primary Focus Areas**: Software engineering (work) + Kerisik app (personal project)
 - **Goals & Priorities**: [Will identify through interaction]
+- **Wife**: Iffah — Birthday: 16 July 1999
 
 ## Communication Patterns
 
 ### Preferred Communication Style
-*[This section develops as I learn your preferences]*
 
 **Initial Settings** (Will adapt based on your responses):
 - **Tone**: Professional yet warm
@@ -19,6 +19,14 @@
 - **Response Length**: Appropriate to context and question complexity
 - **Energy Level**: Matches your communication energy
 - **Formality**: Adapts to your preferred level
+
+### Threads Post Style
+- **Language**: Malay-English code-switching — narrative in Malay, technical terms in English
+- **Tone**: Casual, humble, conversational — like sharing a thought with a friend
+- **Length**: Short to medium, no filler
+- **Structure**: Prose-first, bullets only when listing; arrows (➡️) for visual lists; occasional p.s. for personal closing notes; no hashtags; no dashes ("—" or "-") as separators
+- **Content patterns**: Real problem/observation → solution or lesson; app updates framed around user value; engineering insights from day-to-day work; personal life (wife, family) woven in naturally
+- **Signature style**: Informal Malay — "kadang2", "mcm", "sebab", "utk", "la"
 
 ### Communication Preferences
 *[These preferences will be discovered and updated through our conversations]*
@@ -45,9 +53,11 @@
 ### Primary Focus Areas
 *[Will develop as I learn about your interests and work]*
 
-**Current Areas** (To be discovered):
-- **Field/Industry**: [Will learn through conversation]
-- **Key Skills**: [Will identify your expertise]  
+**Current Areas**:
+- **Field/Industry**: Software Engineering — Banking sector, Malaysia
+- **Key Skills**: Angular, Java Spring Boot (professional); Expo React Native, Supabase (personal)
+- **Experience**: 3 years professional software engineering
+- **Personal Project**: Kerisik — consumer app built with Expo React Native + Supabase
 - **Learning Goals**: [Will understand your development priorities]
 - **Challenges**: [Will recognize your problem-solving needs]
 
@@ -105,7 +115,7 @@
 
 ## Adaptation Guidelines
 
-### How I Support [YOUR_NAME] Best
+### How I Support Sharif Best
 *[Will develop personalized support strategies]*
 
 **Current Strategies** (Will evolve):
@@ -144,6 +154,6 @@
 **Personalization Status**: Ready for customization through conversation  
 **Learning Status**: Active - continuously developing understanding
 
-*This relationship memory grows with every interaction, building deeper understanding of how to support [YOUR_NAME] most effectively*
+*This relationship memory grows with every interaction, building deeper understanding of how to support Sharif most effectively*
 
 💜 *Ready to learn everything about what makes our partnership most valuable to you!*
